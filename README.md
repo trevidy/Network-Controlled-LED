@@ -1,4 +1,4 @@
-# smart_LED
+# Network-Controlled-LED
 
 MicroPython project for Raspberry Pi Pico 2W.
 
